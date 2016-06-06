@@ -122,23 +122,23 @@ h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
-	line-height: 2em;
+	line-height: 1.1em;
 	margin-top: 0.1em;
 	margin-bottom: 0em !important;
 }
 
 h2 {
-	font-size: 1.1em;
-	color: #a00;
-	margin-top: 1em;
+	font-size: 1.3em;
+	color: #009688;
+	margin-top: 0.9em;
 	position: relative;
-	top: 1.5em;
+	top: 1em;
 	text-align: right;
 	width: 18%;
 }
 
 h2+p {
-	margin-top: 2.1em;
+	margin-top: 1.6em;
 }
 
 h3 {
