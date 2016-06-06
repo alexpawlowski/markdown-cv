@@ -77,7 +77,7 @@ Bredesen Center Fellowship (PhD fees + enhanced stipend)
 __Toyota Motors North America__ Energy and Environmental Research Intern - Designed a GUI for a modeling program and visualized data on CAFE compliance (Washington, DC)
 
 `2011-13`
-__Virginia Department of Transportation__ Transportation Planning and Land Development Intern - Redesigned database and GUI for internal tracking; Visualized historical data on annual high occupancy vehicle lane data collection.
+__Virginia Department of Transportation__ Transportation Planning and Land Development Intern - Redesigned database and GUI for internal tracking; Visualized historical data on annual high occupancy vehicle lane data collection. (Suffolk, VA)
 
 ## Links
 
