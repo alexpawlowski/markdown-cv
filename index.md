@@ -46,19 +46,18 @@ __Pawlowski A__, Splitter D (2015). SI Engine Trends: A Historical Analysis with
 * __CAD__
 * \_ Solidworks (_CSWA_)
 * \_ Autodesk Fusion 360
-* \_ OpenSCAD
-* \_ FreeCAD
+* \_ OpenSCAD + FreeCAD
+* LaTeX
+* Inkscape
 * __Machining__
 * \_ CNC Milling
 * \_ Manual Milling and Lathing
+* __R__
+* \_ Shiny
+* \_ Data visualization
 * __Additive Manufacturing__
 * \_ Fused Filament Fabrication / Fused Deposition Modeling
 * \_ Binder Jet
-* __R__
-* \_ Shiny
-* LaTeX
-* Inkscape
-* Data visualization
 * HTML and CSS
 * Javascript
 
@@ -72,7 +71,7 @@ I led the development of an [evaluation tool](https://bccpp.shinyapps.io/mycpp/)
 
 Bredesen Center Fellowship (PhD fees + enhanced stipend)
 
-## Data Visualization (in Transportation) Experience
+## Data Visualization Experience
 
 Summer `2013`
 __Toyota Motors North America__ Energy and Environmental Research Intern - Designed a GUI for a modeling program and visualized data on CAFE compliance (Washington, DC)
