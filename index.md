@@ -6,7 +6,7 @@ title: Alex Pawlowski's CV
 Energy Science and Engineering PhD Student, exploring additive manufactured metallic gradients for end-use transportation parts.
 
 <div id="webaddress">
-<a href="mailto:apawlows@vols.utk.edu">apawlows@vols.utk.edu</a>
+<i class="fa fa-envelope"></i> <a href="mailto:apawlows@vols.utk.edu">apawlows@vols.utk.edu</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/alexpawlowski">alexpawlowski</a>
 |
@@ -20,9 +20,9 @@ I'm a rising third-year energy science and energy PhD student at the University 
 ## Education
 
 `2014-18`
-__University of Tennessee__ Energy Science and Engineering PhD (advisors: Derek Splitter and Robert Wagner)
+__University of Tennessee__ PhD Energy Science and Engineering (advisors: Derek Splitter and Robert Wagner)
 
-`2011-12`
+`2010-14`
 __University of Virginia__ BSc Mechanical Engineering and Engineering Science - Material Science (_3.2 GPA_)
 
 ## Presentations
@@ -73,7 +73,7 @@ Bredesen Center Fellowship (PhD fees + enhanced stipend)
 
 ## Data Visualization Experience
 
-Summer `2013`
+`2013`
 __Toyota Motors North America__ Energy and Environmental Research Intern - Designed a GUI for a modeling program and visualized data on CAFE compliance (Washington, DC)
 
 `2011-13`
@@ -81,16 +81,14 @@ __Virginia Department of Transportation__ Transportation Planning and Land Devel
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:apawlows@vols.utk.edu">apawlows@vols.utk.edu</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/alexpawlowski">alexpawlowski</a><br />
 * <i class="fa fa-linkedin"></i> <a href="http://linkedin.com/in/alexpawlowski">alexpawlowski</a><br />
 * <i class="fa fa-twitter"></i> <a href="http://twitter.com/alexpawlowski_">alexpawlowski_</a><br />
-* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/5640617/alex-pawlowski">alexpawlowski</a>
 * <i class="fa fa-google"></i> <a href="https://scholar.google.com/citations?user=MLhGOi4AAAAJ">scholar</a>
 
-## References
+<!--## References
 
-Available on request.
+Available on request. -->
 
 <!-- ### Footer
 

@@ -72,8 +72,8 @@ p {
 code {
 	font: normal normal;
 	font-size: 70%;
-	font-family: Menlo, monospace,s ans-serif;
-	color: #ddd;
+	font-family: "Open Sans";/*Menlo, monospace,sans-serif;*/
+	color: #58595b;
 }
 
 p code {
@@ -122,8 +122,8 @@ h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
-	line-height: 1.1em;
-	margin-top: 0.1em;
+	line-height: 1.4em;
+	margin-top: 0.4em;
 	margin-bottom: 0em !important;
 }
 
@@ -138,7 +138,7 @@ h2 {
 }
 
 h2+p {
-	margin-top: 1.6em;
+	margin-top: 1.2em;
 }
 
 h3 {
@@ -147,7 +147,7 @@ h3 {
 	line-height: 2em;
 	color: #ccc;
 	position: relative;
-	top: 1.6em;
+	top: 1.2em;
 	text-align: right;
 	width: 20%;
 }
@@ -162,7 +162,7 @@ a:hover {
 }
 
 #webaddress {
- 	margin-top: 0em;
+ 	margin-top: 0.1em;
 	position: relative;
 	left: 28%;
 	color: #58595B;
