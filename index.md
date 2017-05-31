@@ -48,20 +48,27 @@ __Pawlowski A__, Splitter D (2015). SI Engine Trends: A Historical Analysis with
 * __CAD__
 * \_ Solidworks (_CSWA_)
 * \_ Autodesk Fusion 360
-* \_ OpenSCAD + FreeCAD
+* \_ OpenSCAD
+* \_ FreeCAD
+* __Scripting__
 * \_ LaTeX
+* \_ HTML, CSS, + Javascript
+* __Data visualization__
+* \_ R + Shiny
+* \_ Python
 * \_ Inkscape
-* __Machining__
+* \_ Plotly
+* __Manufacturing__
 * \_ CNC Milling
-* \_ Manual Milling and Lathing
-* __R__
-* \_ Shiny
-* \_ Data visualization
+* \_ Manual Milling
+* \_ Lathing
+* \_ Spincasting
 * __Additive Manufacturing__
-* \_ Fused Filament Fabrication / Fused Deposition Modeling
+* \_ Fused Filament Fabrication / FDM
 * \_ Binder Jet
-* HTML and CSS
-* Javascript
+* \_ Selective Laser Melting
+* \_ Electron beam melting
+
 
 ## Projects
 
