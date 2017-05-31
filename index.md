@@ -49,8 +49,8 @@ __Pawlowski A__, Splitter D (2015). SI Engine Trends: A Historical Analysis with
 * \_ Solidworks (_CSWA_)
 * \_ Autodesk Fusion 360
 * \_ OpenSCAD + FreeCAD
-* LaTeX
-* Inkscape
+* \_ LaTeX
+* \_ Inkscape
 * __Machining__
 * \_ CNC Milling
 * \_ Manual Milling and Lathing
@@ -64,6 +64,10 @@ __Pawlowski A__, Splitter D (2015). SI Engine Trends: A Historical Analysis with
 * Javascript
 
 ## Projects
+
+### AMIPC
+
+For my dissertation research, we have developed a manufacturing process to produce metal-metal composites combined additive manufacturing with casting. In our first paper on the work, we have demonstrated enhanced damage tolerance of the composite over the standard matrix material, with work ongoing to demonstrate control over a variety of material systems and lattice configurations.
 
 ### Clean Power Plan Tool
 
