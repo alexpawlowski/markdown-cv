@@ -15,7 +15,7 @@ Energy Science and Engineering PhD Student, exploring additive manufactured meta
 
 ## Currently
 
-I'm a rising third-year energy science and energy PhD student at the University of Tennessee, in partnership with the Fuels, Engines, and Emissions Research Center (FEERC) at Oak Ridge National Lab. In this interdisciplinary study, I have taken full advantage of developing a project that leverages strong core areas for ORNL to a new opportunity for the lab. My primary focus is to develop metallic gradients through additive manufacturing for end-use components to improve vehicle efficiency. Through successfully defending a lab SEED proposal and becoming the first of 2 projects sponsored by the Vehicle Technology Office in additive manufacturing, I have assembled a team in each core competency to tackle this issue: additive manufacturing, high temperature materials, and engines. To add depth to this area of concentration, I have found great interest in fuel economy analysis, helped in the design of 2 additively manufactured vehicles at the lab, and participate in dynamic neutron imaging of fuel injector sprays. I am actively building on programming skills with the R language to introduce statistical methods and web development to help find new ways to collaborate with open science.
+I'm a rising fourth-year energy science and energy PhD student at the University of Tennessee, in partnership with the Fuels, Engines, and Emissions Research Center (FEERC) at Oak Ridge National Lab. In this interdisciplinary study, I have taken full advantage of developing a project that leverages strong core areas for ORNL to a new opportunity for the lab. My primary focus is to develop metallic gradients through additive manufacturing for end-use components to improve vehicle efficiency. Through successfully defending a lab SEED proposal and becoming the first of 2 projects sponsored by the Vehicle Technology Office in additive manufacturing, I have assembled a team in each core competency to tackle this issue: additive manufacturing, high temperature materials, and engines. To add depth to this area of concentration, I have found great interest in fuel economy analysis, helped in the design of 2 additively manufactured vehicles at the lab, and participate in dynamic neutron imaging of fuel injector sprays. I am actively building on programming skills with the R language to introduce statistical methods and web development to help find new ways to collaborate with open science.
 
 ## Education
 
@@ -35,6 +35,8 @@ Addressing our future mobility needs now (_Pecha Kucha Night Knoxville_, Vol 14,
 ## Publications
 
 <!-- ### Journals -->
+`2017`
+__Pawlowski A__, Cordero Z, French M, Muth T R, Carver J K, Dinwiddie R, Elliott A, Shyam A, Splitter D. Damage-tolerant metallic composites via melt infiltration of additively manufactured preforms. Materials & Design. 127:346-351.  [doi:10.1016/j.matdes.2017.04.072](https://doi.org/10.1016/j.matdes.2017.04.072)
 
 `2015`
 Splitter D, __Pawlowski A__, and Wagner R (2015). A historical analysis of the co-evolution of gasoline octane number and spark-ignition engines. Front. Mech. Eng. 1:16. [doi:10.3389/fmech.2015.00016](doi:10.3389/fmech.2015.00016)
@@ -92,4 +94,4 @@ Available on request. -->
 
 <!-- ### Footer
 
-Last updated: June 2016 -->
+Last updated: May 2017 -->
